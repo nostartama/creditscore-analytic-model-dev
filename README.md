@@ -1,5 +1,5 @@
 # creditscore-analytic-model-dev
-Menggunakan dataset credit score yang memiliki tujuan apakah seseorang terlambat (1) atau tidak (0) dalam membayar kredit.
+Menggunakan dataset credit score yang memiliki tujuan apakah seseorang terlambat (1) atau tidak terlambat (0) dalam membayar kredit.
 
 ## Yang dibutuhkan:
 
@@ -78,6 +78,12 @@ Tujuannya adalah ketika kita memasukkan banyak pengujian (dijelaskan dibawah, me
 Atau apabila hanya ingin mencoba menggunakan satu data, berikut contoh inputan yang dapat dimasukkan:
 
 ![Gambar 12](https://raw.githubusercontent.com/nostartama/creditscore-analytic-model-dev/master/pict/gam12.png)
+
+Dari hasil yang diinputkan, didaptkan sebagai berikut:
+
+![Gambar 121](https://raw.githubusercontent.com/nostartama/creditscore-analytic-model-dev/master/pict/gam121.png)
+
+Maksudnya adalah dengan menggunakan variabel serta parameter tertentu (yang sudah ditunjukkan diatas) didapatkan keterangan 0. Berati orang tersebut tidak terlambat dalam pembayaran kredit.
 
 ***
 
