@@ -87,43 +87,48 @@ Maksudnya adalah dengan menggunakan variabel serta parameter tertentu (yang suda
 
 ***
 
-## Inputan menggunakan .json (bisa satu data ataupun lebih)
+# Inputan menggunakan .json (bisa satu data ataupun lebih)
 
 ### 7. Membuat Inputan / Membuat file JSON (opsional/hanya untuk banyak data)
 
-Untuk file inputan pada data, menggunakan file JSON. Dapat dibuat pada 
+Untuk file inputan pada data, menggunakan file JSON. Dapat dibuat menggunakan Spyder, Atom, Notepad++, atau dalam notepad biasa. Yang terpenting mengikuti format yang ada.
+
+![Gambar 72](https://raw.githubusercontent.com/nostartama/creditscore-analytic-model-dev/master/pict/gam72.png)
 
 ### 8. Simpan dan Masukkan kedalam Folder
 
 Simpan hasil yang sudah kita buat sebelumnya, klik tombol *save* pada lingkaran yang sudah ditandai.
 
-(Gambar 6)
+![Gambar 6](https://raw.githubusercontent.com/nostartama/creditscore-analytic-model-dev/master/pict/gam6.png)
 
 Selanjutnya akan muncul tampilan seperti dibawah, tidak dapat disimpan bukan? Itu dikarenakan harus membuat folder terlebih dahulu. Caranya dengan klik '+Create Collection' (Gambar Bawah 1) -> Lalu pilih folder tersebut (Gambar Bawah 2)
 
-(Gambar 7)
+![Gambar 7](https://raw.githubusercontent.com/nostartama/creditscore-analytic-model-dev/master/pict/gam7.png)
 
-(Gambar 8)
+![Gambar 8](https://raw.githubusercontent.com/nostartama/creditscore-analytic-model-dev/master/pict/gam8.png)
 
 
-
-### 10. Isikan input sesuai variabel yang dibuat saat Machine Learning
-
-Berikut variabel yang disediakan untuk diberi nilai sesuai keinginan:
-
-### 11. Pilih 'Runner' (opsional/hanya untuk banyak data) 
+### 9. Pilih 'Runner' (opsional/hanya untuk banyak data) 
 
 Pilih Tab 'Runner' untuk menjalankan program. 
 
-(Gambar 10)
+![Gambar 10](https://raw.githubusercontent.com/nostartama/creditscore-analytic-model-dev/master/pict/gam10.png)
 
+Lalu pilih POST yang sudah disimpan sebelumnya.
 
+![Gambar 110](https://raw.githubusercontent.com/nostartama/creditscore-analytic-model-dev/master/pict/gam110.png)
 
-### 12. Contoh Hasil Runner (opsional/hanya untuk banyak data)
+Lalu pilih data dengan mengklik 'Select File', lalu nanti akan muncul pop-up untuk memilih data. Pilihlah file testing.json yang sudah dibuat.
+
+![Gambar 111](https://raw.githubusercontent.com/nostartama/creditscore-analytic-model-dev/master/pict/gambar111.png)
+
+Lalu klik tombol 'RUN POST DATA' untuk menjalankan RUNNER.
+ 
+### 10. Contoh Hasil Runner (opsional/hanya untuk banyak data)
 
 Berikut hasil dari runner yang sudah dijalankan, untuk lebih jelasnya ada pada hasil_11data.json
 
-(Gambar 11)
+![Gambar 11](https://raw.githubusercontent.com/nostartama/creditscore-analytic-model-dev/master/pict/gam11.png)
 
 FIN..AVO
 
