@@ -1,0 +1,99 @@
+{
+	"id": "e1c0bc0a-4be7-4be1-a05e-73253fb22091",
+	"name": "POST DATA",
+	"allTests": [],
+	"timestamp": "2019-09-23T14:11:08.016Z",
+	"collection_id": "2b5b6add-0841-488f-a63c-4fcc9c1da9fd",
+	"folder_id": 0,
+	"target_type": "collection",
+	"environment_id": "0",
+	"data": [],
+	"delay": 0,
+	"count": 11,
+	"collection": {
+		"id": "2b5b6add-0841-488f-a63c-4fcc9c1da9fd",
+		"name": "POST DATA",
+		"description": null,
+		"auth": null,
+		"events": null,
+		"variables": null,
+		"order": [
+			"65730544-f9dc-4742-829c-3f0a63199856"
+		],
+		"folders_order": [],
+		"owner": "8897605",
+		"favorite": false,
+		"protocolProfileBehavior": {}
+	},
+	"folder": null,
+	"environment": null,
+	"globals": [],
+	"results": [
+		{
+			"name": "10 Baris Percobaan",
+			"id": "65730544-f9dc-4742-829c-3f0a63199856",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"1748",
+				"489",
+				"1928",
+				"720",
+				"531",
+				"1591",
+				"383",
+				"332",
+				"3421",
+				"811",
+				"3624"
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			],
+			"time": "3624",
+			"totalRequestTime": 15578,
+			"iterationResults": {}
+		}
+	],
+	"totalPass": 0,
+	"totalFail": 0,
+	"totalTime": 15578,
+	"lifecycle": "done",
+	"requests": [
+		{
+			"name": "10 Baris Percobaan",
+			"id": "65730544-f9dc-4742-829c-3f0a63199856",
+			"url": "nostartama.pythonanywhere.com/api",
+			"time": "3624",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		}
+	],
+	"synced": false
+}
